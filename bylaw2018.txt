@@ -1,0 +1,540 @@
+  Ain Shams University, Faculty of Engineering   
+Computer Engineering and Software Systems Program (CESS)  
+Bylaw -2018  
+ 
+ 
+Computer Engineering and Software Systems Program (CESS)  
+ 
+1. Program mission  
+he CESS program mission is to provide high quality education in the field of computer engineering and software 
+systems to contribute to the preparation of a distinguished graduate capable of staying up -to-date with the global 
+technological development in the field of computer engineering and software systems, capable of meeting the needs of 
+the local, regional and international market, and able to conduct scie ntific and applied research. The program mission 
+is realized through the continuous development of the program. 
+ 
+The systematic development of high -quality software systems that are concerned with quality, cost, time, and a number 
+of other requirements , demands  well-qualified engineers in this field. Software engineering is one of the most promising 
+fields in engineering and is considered an important milestone in the ever -growing information technology sector. 
+Therefore, the main objective of this progr am is to graduate highly qualified engineers in the field s of computer 
+engineering and software industry. This program focuses on modern methodologies in software industry that represents 
+an important sector of the national economy.  In this program , stude nts study  a variety of courses that complement each 
+other to produce a world -class qualified engineer . The program provides the students with the  engineering knowledge 
+and principles that are applied in each phase of the software development life -cycle  including  requirements analysis, 
+design, validation, implementation, testing, documentation, and management. The program is therefore based on the 
+following intentions:  
+ 
+PM1.  To equip students with the required basic knowledge of engineering sciences  to produce solutions that 
+meet specified needs with consideration of public health, and welfare, as well as global, cultural, social, 
+environmental, and economic factors.  
+PM2.  To prepare students to be innovative in the design, research, and implementation of software products 
+with strong problem solving, communication, teamwork, leadership, and entrepreneurial skills  
+PM3.  To enable students to establish technical leadership in the  software engineering and development areas.  
+2. Program aims  
+By successfully completing the Computer Engineering and Software Systems program at the Faculty of Engineering, 
+Ain Shams University, the graduate will be able to:   
+PA 1.  Apply knowledge of mathematics, science and engineering concepts to the solution of computer and 
+software engineering problems.  
+PA 2.  Identify, formulate, and solve fundamental engineering  problems.  
+PA 3.  Use the techniques, skills, and engineering tools, necessary fo r engineering practice and project  
+management.  
+PA 4.  Demonstrate knowledge of contemporary engineering  issues.  
+PA 5.  Design computer/software systems; components and processes to meet the requirements 
+specifications within realistic constraints.  
+PA 6.  Design and conduct ana lysis process and experiments as well as analyze and interpret  data.  
+PA 7.  Use current techniques, skills, and tools necessary for computing practices to specify, analyze, 
+design, implement, verify, validate, and evolve computer - and software - based  systems.  
+PA 8.  Recognize the information requirements of various business activities on both operational and 
+decision -making  levels.  
+PA 9.  Tackle business problems using system analysis tools and  techniques.  
+PA 10.  Manage projects related to computer and software engineering in diverse fields of  applications.  
+PA 11.  Implement the different phases of the computer and software systems development life -cycle, 
+procurement and installation of hardware, software analysis, design, validation, verification, and 
+maintenance, data manipulation and system operations.    Ain Shams University, Faculty of Engineering   
+Computer Engineering and Software Systems Program (CESS)  
+Bylaw -2018  
+ 
+PA 12.  Work effectively within multi -disciplinary  teams.  
+PA 13.  Communicate  effectively.  
+PA 14.  Consider the impacts of engineering solutions on society and  environment.  
+PA 15.  Display  professional , ethical  responsibilities  and contextual understanding.  
+PA 16.  Engage in self - and life - long learning.  
+PA 17.  Demonstrate inductive reasoning abilities, figure out general rules and conclusions about 
+seemingly unrelated  events.  
+3. Graduate attributes  
+To achieve the program mission and aims, program gr aduates should be able to : 
+ 
+GA 1 - Master a wide spectrum of engineering knowledge and specialized skills and can apply acquired 
+knowledge using theories and abstract thinking in real life situations.  
+GA 2 - Apply analytic critical and systemic thinking to identify, diagnose and solve engineering 
+problems with a wide range of complexity and variation.  
+GA 3 - Behave professionally and adhere to engineering ethics and standards.  
+GA 4 - Work in and lead a heterogeneous team of professionals from different engineering special ties 
+and assume responsibility for own and team performance.  
+GA 5 - Recognize his/her role in promoting the engineering field and contribute in the development of 
+the profession and the community.  
+GA 6 - Value the importance of the environment, both physical and natural , and work to promote 
+sustainability principles.  
+GA 7 - Use techniques, skills and modern engineering tools necessary for engineering practice.  
+GA 8 - Assume full responsibility for own learning and self -development, engage in lifelong learning 
+and demonstrate the capac ity to engage in post - graduate and research studies.  
+GA 9 - Communicate effectively using different modes, tools and languages with various audiences; to 
+deal with academic/professional challenges in a critical and creative manner.  
+GA 10 - Demonstrate leadership qualiti es, business administration and entrepreneurial skills.  
+GA 11 - Design and implement elements, modules, sub -systems, or systems using technological and 
+professional tools.  
+GA 12 - Select and analyse appropriate design techniques for computer engineering and software 
+systems.  
+GA 13 - Estimate and measure the performance of a digital  system and circuit under specific input 
+excitation and evaluate its suitability for a specific application.  
+GA 14 - Identify needs, plan and manage resources, and gather information for solving a specific 
+digital  problem and document and communicate this solution efficiently.  
+GA 15 - Carry out design, development, testing, debugging, operation, and maintenance of digital 
+systems /services  such as computer systems, circuit boards, software systems, and mixed (embedded) 
+systems.  
+GA 16 - Establish an environment to build, test and release digital systems in a more rapid, frequent, 
+and reliable manner by emphasizing the collaboration and comm unication of developers and operations 
+team members.    Ain Shams University, Faculty of Engineering   
+Computer Engineering and Software Systems Program (CESS)  
+Bylaw -2018  
+ 
+GA 17 - Select the most suitable technologies to deploy solutions to various kinds of problems and 
+develop solutions using them.  
+GA 18 - Abide to software engineering standards and best practices.  
+GA 19 - Demonstrate additional  abilities related to the field of the concentration within Computer 
+Engineering and Software Systems . 
+4. Program Career Prospects   
+The graduate of this program will establish technical leadership in the area of computer engineering and software 
+systems. In a ddition to his contributions as a professional engineer who is able to participate and cooperate productively 
+in his respective fields. The skills of the graduates of this program that include computer engineering, software 
+engineering, distributed and mob ile computing, embedded systems, computer security, multimedia systems, data 
+science, and others , will lead to high -level positions in leading the engineering projects in these areas. Therefore, this 
+program will meet the increasing demand for this specialization to meet the market needs at the national, regional, and 
+international levels.  
+The program  qualifies graduates to work as computer and software  engineers. The graduate can be specialized in one 
+of the following four concentrations (fields):  
+1. Multimedia and Computer Graphics: This concentration prepares the graduate to work in the 
+field of gra phics software development including image processing, vision, computer animation, and 
+games development.  
+2. Distributed and Mobile Computing: This concentration prepares the graduate to work in the field 
+of distributed systems and networking including clo ud computing, wireless and mobile networks, 
+digital forensics, IOT, and parallel computing.  
+3. Software Product Lines: This concentration prepares the graduate to work as a full -fledged 
+software engineer who deeply understands all software development proc esses and aspects including 
+financial, managerial, and design, security, and performance aspects.  
+4. Data Science:  This concentration prepares the graduate to work as a data scientist by covering a 
+wide range of topics including big -data, machine learning, deep learning, and various application such 
+as bioinformatics and business intelligence.  
+ 
+5. Agreements with another University  
+The program is in partnership with the University of East London (UEL), one of the leading modern Universities 
+in the United Kingdom for Engineering and Computing . The Graduates  are eligible for the B .Sc. Computer 
+Engineering and Softwar e Systems dual award from Ain Shams University and the University of East London. 
+Both institutions work together to ensure the quality and standards of the program on which the students are 
+registered.  Students are allowed to study one semester  or more at UEL with  a 10% reduction in the UK tuition fees.  
+ 
+6. Program admission requirements  
+Students with Egyptian Secondary education or equivalent certificate with major in Mathematics and/or 
+equivalent diplomas may apply for admission/enrolment in the Credit Hours Engineering Programs after 
+being accepted in the Faculty of Engineering (ASU) based on the rules yearly set by the Higher Council of 
+Universities.  
+The official teaching Language is English, and the Faculty of Engineering will ascertain the stu dent's English 
+Language proficiency. Textbooks, assignments, and examinations are all in English.  
+   Ain Shams University, Faculty of Engineering   
+Computer Engineering and Software Systems Program (CESS)  
+Bylaw -2018  
+ 
+7. Curriculum Structure and Content s 
+ 
+7.1  Program structure  
+ 
+i- Total number of courses (NC s): 62 
+ii- No. of credit hours  (CHs): 170 
+iii- European Credit Transfer System (ECTS):  300 
+iv- Student Workload  (SWL):  7500  
+v- Requirements (%):  
+ 
+1 University Requirement  UR 8 % 
+2 Faculty Requirement  FR 25 % 
+3 Discipline Requirement  DR  67 % 
+ 
+vi- Practical/Field Training: The student must perform field training for 12 weeks in industrial or service 
+facilities.  
+ 
+7.2 Program Study Levels  
+ 
+The following table shows the student status and the study levels depending on the number of credit hours that the 
+student completed. Whenever the student has completed 20% of the graduation requirements, he will be transferred 
+from one level to a higher l evel (0 -4). 
+ 
+Study Levels and relation to the achieved Credit Hours.  
+Study Level  Student Status  Achieved Credit Hours  
+0 Freshman  0 CH to less than 34 CH  
+1 Sophomore  35 CH to less than 68 CH  
+2 Junior  69 CH to less than 102 CH  
+3 Senior -1 103 CH to less than 136 CH  
+4 Senior -2 137 CH to less than 170 CH  
+ 
+7.3 Program Courses  
+The courses in the program study plan are categorized into the following three group s
+ 
+  Ain Shams University, Faculty of Engineering   
+Computer Engineering and Software Systems Program (CESS)  
+Bylaw -2018  
+ 
+University Requirements  
+To achieve this goal, Ain Shams University has designed a number of courses planned to build the student 
+personality, develop his skills, and increase his awareness of different topics. These courses are called University 
+Requirements. The Faculty of Engin eering Ain Shams University has selected some of these courses to be offered 
+within the Engineering Programs. These courses are:  
+List of University requirements courses.  
+ 
+Code  Course Title  Credits and 
+SWL  Contact Hours  
+CH ECT
+S SWL  Lec Tut Lab TT 
+ASU011  Technical English Language  0 4 100 2 2 0 4 
+         
+ASU111  Human Rights  2 2 50 2 1 0 3 
+ASU112  Report Writing and Communication skills  3 4 100 2 2 0 4 
+ASU113  Professional Ethics and Legislations  3 4 100 2 2 0 4 
+ASU114  Selected Topics in Contemporary Issues  2 2 50 2 0 0 2 
+- ASU Elective (1)  2 3 75 2 1 0 3 
+- ASU Elective (2)  2 2 50 2 0 0 2 
+Total  14 17 425 12 6 0 18 
+Pool of ASU Elective (1) Courses  
+ASU321  Innovation and Entrepreneurship  2 3 75 2 1 0 3 
+ASU322  Language Course can accept equivalent certificates  2 3 75 2 1 0 3 
+ASU323  Introduction to Accounting  2 3 75 2 1 0 3 
+ASU324  History of Engineering and Technology  2 3 75 2 1 0 3 
+Pool of ASU Elective (2) Courses  
+ASU331  Human Resources Management  2 2 50 2 0 0 2 
+ASU332  History of Architecture  2 2 50 2 0 0 2 
+ASU333  Introduction to Marketing  2 2 50 2 0 0 2 
+ASU334  Building Safety and Fire Protection  2 2 50 2 0 0 2 
+ASU335  Literature and Arts  2 2 50 2 0 0 2 
+ASU336  Business Administration  2 2 50 2 0 0 2 
+ 
+A placement test in English Language will be conducted for some admitted students to the Faculty of Engineering. 
+If the student passes this test, then he will be exempted from taking the Technical English Language Course. The 
+Technical English Language cours e is a pre -requisite for all Faculty requirements courses.  
+For ASU322 Language course, any non -English language is accepted including Arabic. If a student has an 
+equivalent certificate, he is exempted from taking this course.  
+I. Faculty Requirements  
+A set of courses must be completed as a Faculty Requirement. These courses are divided into Basic Science Courses 
+and Basic Engineering Courses.  
+List of Faculty requirements courses.  
+ 
+Code  Course Title  Credits and SWL  Contact Hours  
+CH ECTS  SWL  Lec Tut Lab TT 
+PHM011  Basic Mathematics  0 4 100 2 2 0 4 
+ENG111  Field Training  0 12 300 0 10 15 25 
+         
+PHM012  Mathematics (1)  3 5 125 3 2 0 5 
+PHM013  Mathematics (2)  3 5 125 3 2 0 5 
+PHM021  Vibration and Waves  3 5 125 3 1 1 5 
+PHM022  Electricity and Magnetism  3 5 125 3 1 1 5 
+PHM031  Statics  3 5 125 2 2 1 5 
+PHM032  Dynamics  3 5 125 2 2 1 5   Ain Shams University, Faculty of Engineering   
+Computer Engineering and Software Systems Program (CESS)  
+Bylaw -2018  
+ 
+Code  Course Title  Credits and SWL  Contact Hours  
+CH ECTS  SWL  Lec Tut Lab TT 
+PHM041  Engineering Chemistry  3 5 125 2 1 2 5 
+PHM111  Probability and Statistics  2 4 100 2 2 0 4 
+         
+MDP081  Production Engineering  3 5 125 2 0 3 5 
+MDP011  Engineering Drawing  3 6 150 1 3 2 6 
+CEP011  Projection and Engineering Graphics  3 6 150 1 3 2 6 
+CSE031  Computing in Engineering  2 4 100 2 0 0 2 
+ENG011  Fundamentals of Engineering  2 4 100 2 1 0 3 
+         
+- Structures and Properties of Materials Elective  2 4 100 2 1 1 4 
+- Engineering Economy Elective  2 4 100 2 1 0 3 
+- Project Management Elective  2 4 100 2 1 0 3 
+Total  42 76 1900  34 23 14 71 
+ 
+Pool of Structures and Properties of Materials Elective Courses  
+MDP151  Structures and Properties of Materials  2 4 100 2 1 1 4 
+EPM211  Properties of Electrical Materials  2 4 100 2 1 1 4 
+CES151  Structures and Properties of Construction Materials  2 4 100 2 1 1 4 
+Pool of Engineering Economy Elective Courses  
+MDP231  Engineering Economy  2 4 100 2 1 0 3 
+ARC471  Feasibility Studies  2 4 100 2 1 0 3 
+ARC463  Renewable Energy Systems and Economics  2 4 100 2 1 0 3 
+UPL271  Society and Housing Economics  2 4 100 2 1 0 3 
+UPL471  Urban Economics  2 4 100 2 1 0 3 
+EPM119  Engineering Economy and Investments  2 4 100 2 1 0 3 
+CEI261  Engineering Economics and Management  2 4 100 2 1 0 3 
+CES171  Engineering Economics and Finance  2 4 100 2 1 0 3 
+Pool of Project Management Elective Courses  
+MDP232  Industrial Project Management  2 4 100 2 1 0 3 
+ARC371  Architecture Project Management  2 4 100 2 1 0 3 
+EPM411  Project Management for Electrical Engineering  2 4 100 2 1 0 3 
+CSE441  Software Project Management  2 4 100 2 1 0 3 
+CES271  Project Management Essentials in Construction  2 4 100 2 1 0 3 
+ 
+A placement test in Mathematics will be conducted for all admitted students except some High School Degrees 
+which are determined by the Faculty Council. If the student passes this test, then he will be exempted from taking 
+Basic Mathematics Course. The Basic  Mathematics course is a pre -requisite for all Faculty requirements courses.  
+ 
+II. Specialization requirements  
+In order to get a Bachelor of Science Degree in this program, and to satisfy the program competences, the following 
+set of courses need to be complete d. 
+List of Computer Engineering and Software Systems Program  Requirements courses.  
+Code  Course Title  Credits and SWL  Contact Hours  
+CH ECTS  SWL  Lec Tut Lab TT 
+ Ain Shams University Requirements  14 17 425 12 6 0 18 
+ Faculty of Engineering Requirements  42 76 1900  34 23 14 71 
+  0 0 0 0 0 0 0 
+PHM113  Differential and Partial Differential Equations  3 5 125 3 2 0 5 
+PHM114  Numerical Analysis  3 5 125 2 2 0 4 
+PHM211  Discrete Mathematics  2 4 100 2 2 0 4   Ain Shams University, Faculty of Engineering   
+Computer Engineering and Software Systems Program (CESS)  
+Bylaw -2018  
+ 
+  0 0 0 0 0 0 0 
+ECE251  Signals and Systems Fundamentals  4 6 150 3 2 0 5 
+EPM118  Electrical and Electronic Circuits  3 6 150 2 2 1 5 
+  0 0 0 0 0 0 0 
+CSE111  Logic Design  3 5 125 3 1 1 5 
+CSE112  Computer Organization and Architecture  4 8 200 3 2 2 7 
+CSE131  Computer Programming  3 6 150 3 0 2 5 
+CSE211  Introduction to Embedded Systems  3 5 125 2 2 2 6 
+CSE231  Advanced Computer Programming  3 5 125 2 0 2 4 
+CSE232  Advanced Software Engineering  3 5 125 2 2 0 4 
+CSE233  Agile Software Engineering  2 5 125 1 0 4 5 
+CSE312  Electronic Design Automation  2 4 100 2 1 1 4 
+CSE331  Data Structures and Algorithms  3 5 125 2 2 1 5 
+CSE332  Design and Analysis of Algorithms  3 5 125 2 2 1 5 
+CSE333  Database Systems  3 5 125 2 1 1 4 
+CSE334  Software Engineering  3 5 125 2 2 0 4 
+CSE335  Operating Systems  3 5 125 2 2 0 4 
+CSE336  Software Design Patterns  2 5 125 2 1 1 4 
+CSE338  Software Testing, Validation, and Verification  3 7 175 2 2 1 5 
+CSE341  Internet Programming  3 5 125 2 1 2 5 
+CSE351  Computer Networks  3 5 125 2 2 0 4 
+CSE354  Distributed Computing  3 4 100 2 2 1 5 
+CSE371  Control Engineering  3 5 125 2 1 1 4 
+CSE411  Real -Time and Embedded Systems Design  3 5 125 2 1 1 4 
+CSE431  Mobile Programming  3 5 125 2 1 2 5 
+CSE432  Automata and Computability  3 5 125 2 2 0 4 
+CSE439  Design of Compilers  3 5 125 2 1 1 4 
+CSE451  Computer and Networks Security  3 5 125 2 1 1 4 
+CSE455  High -Performance Computing  2 5 125 2 2 0 4 
+CSE472  Artificial Intelligence  3 5 125 2 2 0 4 
+  0 0 0 0 0 0 0 
+ Computer Engineering Level 3 Electives  6 15 375 6 3 3 12 
+ Computer Engineering Level 4 Electives  12 20 500 12 4 4 20 
+  0 0 0 0 0 0 0 
+CSE491  Computer and Systems Engineering Graduation 
+Project (1)  3 6 150 0 0 5 5 
+CSE492  Computer and Systems Engineering Graduation 
+Project (2)  3 6 150 0 0 5 5 
+Total  170 300 7500  130 82 60 272 
+ 
+The student has to select seven technical elective courses for a total of (18) credit hours with at least five of 
+these courses from one of the mentioned fields.  
+ 
+Pool of Multimedia and Computer Graphics  Concentration Elective Courses  
+CSE374  Digital Image Processing  2 5 125 2 1 1 4 
+CSE377  Pattern Recognition  2 5 125 2 1 1 4 
+CSE378  Computer Graphics  2 5 125 2 1 1 4 
+CSE379  Human -Computer Interaction  2 5 125 2 1 1 4 
+         
+CSE474  Visualization  3 5 125 3 1 1 5 
+CSE479  Multimedia Engineering  3 5 125 3 1 1 5 
+CSE481  Computer Animation  3 5 125 3 1 1 5 
+CSE482  Game Design and Development  3 5 125 3 1 1 5 
+CSE483  Computer Vision  3 5 125 3 1 1 5 
+CSE487  Selected Topics in Multimedia and Computer 
+Graphics  3 5 125 3 1 1 5 
+Pool of Distributed and Mobile Computing Concentration Elective Courses    Ain Shams University, Faculty of Engineering   
+Computer Engineering and Software Systems Program (CESS)  
+Bylaw -2018  
+ 
+CSE314  Parallel and Cluster Computing  2 5 125 2 1 1 4 
+CSE355  Parallel and Distributed Algorithms  2 5 125 2 1 1 4 
+CSE356  Internet of Things  2 5 125 2 1 1 4 
+CSE357  Networks Operation and Management  2 5 125 2 1 1 4 
+         
+CSE412  Embedded Operating Systems  3 5 125 3 1 1 5 
+CSE456  Cloud Computing  3 5 125 3 1 1 5 
+CSE457  Mobile and Wireless Networks  3 5 125 3 1 1 5 
+CSE458  Computer and Network Forensics  3 5 125 3 1 1 5 
+CSE461  Selected Topics in  Distributed and Mobile 
+Computing  3 5 125 3 1 1 5 
+Pool of Software Product Lines  Concentration Elective Courses  
+CSE339  Software Formal Specifications  2 5 125 2 1 1 4 
+CSE342  Program Analysis  2 5 125 2 1 1 4 
+CSE343  Software Engineering Process Management  2 5 125 2 1 1 4 
+CSE344  Dependability and Reliability of Software Systems  2 5 125 2 1 1 4 
+CSE345  Business Process Modelling  2 5 125 2 1 1 4 
+         
+CSE433  Software Performance Evaluation  3 5 125 3 1 1 5 
+CSE434  Aspect - and Service -Oriented Software Systems  3 5 125 3 1 1 5 
+CSE435  Secure Code Development  3 5 125 3 1 1 5 
+CSE436  Software Quality Assurance  3 5 125 3 1 1 5 
+CSE438  Selected Topics in Software Product Lines  3 5 125 3 1 1 5 
+Pool of Data Science  Concentration Elective Courses  
+CSE346  Advanced Database Systems  2 5 125 2 1 1 4 
+CSE381  Introduction to Machine Learning  2 5 125 2 1 1 4 
+CSE382  Data Mining and Business Intelligence  2 5 125 2 1 1 4 
+         
+CSE484  Big-Data Analytics  3 5 125 3 1 1 5 
+CSE485  Deep Learning  3 5 125 3 1 1 5 
+CSE486  Bioinformatics  3 5 125 3 1 1 5 
+CSE488  Ontologies and the Semantic Web  3 5 125 3 1 1 5 
+CSE489  Selected Topics in Data Science  3 5 125 3 1 1 5 
+ 
+7.4 Proposed Study Plan  
+Code  Course Title  Credits and SWL  Contact Hours  Pre-
+requisites  CH ECTS  SWL  Lec Tut Lab TT 
+Semester 1  
+PHM012  Mathematics (1)  3 5 125 3 2 0 5 Eng/Math  
+PHM021  Vibration and Waves  3 5 125 3 1 1 5 Eng/Math  
+PHM031  Statics  3 5 125 2 2 1 5 Eng/Math  
+MDP011  Engineering Drawing  3 6 150 1 3 2 6  
+PHM041  Engineering Chemistry  3 5 125 2 1 2 5 Eng 
+CSE031  Computing in Engineering  2 4 100 2 0 0 2  
+Total  17 30 750 13 9 6 28  
+Semester 2  
+PHM013  Mathematics (2)  3 5 125 3 2 0 5 PHM012  
+PHM022  Electricity and Magnetism  3 5 125 3 1 1 5 Eng/Math  
+PHM032  Dynamics  3 5 125 2 2 1 5 PHM031  
+CEP011  Projection and Engineering Graphics  3 6 150 1 3 2 6  
+MDP081  Production Engineering  3 5 125 2 0 3 5 Eng 
+ENG011  Fundamentals of Engineering  2 4 100 2 1 0 3  
+Total  17 30 750 13 9 7 29  
+Semester 3    Ain Shams University, Faculty of Engineering   
+Computer Engineering and Software Systems Program (CESS)  
+Bylaw -2018  
+ 
+CSE111  Logic Design  3 5 125 3 1 1 5  
+CSE131  Computer Programming  3 6 150 3 0 2 5  
+PHM113  Differential and Partial Differential Equations  3 5 125 3 2 0 5 PHM013  
+EPM118  Electrical and Electronic Circuits  3 6 150 2 2 1 5 PHM022  
+EPM211  Properties of Electrical Materials  2 4 100 2 1 1 4 PHM022  
+ASU112  Report Writing and Communication skills  3 4 100 2 2 0 4  
+Total  17 30 750 15 8 5 28  
+Semester 4  
+CSE112  Computer Organization and Architecture  4 8 200 3 2 2 7 CSE111 
+CSE131  
+CSE231  Advanced Computer Programming  3 5 125 2 0 2 4 CSE131  
+CSE334  Software Engineering  3 5 125 2 2 0 4 CSE131  
+PHM111  Probability and Statistics  2 4 100 2 2 0 4 PHM013  
+PHM114  Numerical Analysis  3 5 125 2 2 0 4 PHM113  
+ ASU Elective (1)  2 3 75 2 1 0 3  
+Total  17 30 750 13 9 4 26  
+Semester 5  
+CSE312  Electronic Design Automation  2 4 100 2 1 1 4 CSE112  
+CSE335  Operating Systems  3 5 125 2 2 0 4 CSE112  
+CSE232  Advanced Software Engineering  3 5 125 2 2 0 4 CSE334  
+CSE331  Data Structures and Algorithms  3 5 125 3 1 1 5 CSE231  
+PHM211  Discrete Mathematics  2 4 100 2 2 0 4  
+ECE251  Signals and Systems Fundamentals  4 6 150 3 2 0 5 PHM111  
+PHM113  
+Total  17 29 725 14 10 2 26  
+Semester 6  
+CSE332  Design and Analysis of Algorithms  3 5 125 2 2 1 5 CSE331  
+CSE333  Database Systems  3 5 125 2 1 1 4 CSE331  
+CSE338  Software Testing, Validation, and Verification  3 7 175 2 2 1 5 CSE232  
+CSE371  Control Engineering  3 5 125 2 1 1 4 ECE251  
+CSE439  Design of Compilers  3 5 125 2 1 1 4 CSE131  
+CSE472  Artificial Intelligence  3 5 125 2 2 0 4 CSE131  
+PHM 211 
+Total  18 32 800 12 9 5 26  
+Semester 7  
+CSE211  Introduction to Embedded Systems  3 5 125 2 2 2 6 CSE111 
+CSE131  
+CSE233  Agile Software Engineering  2 5 125 1 0 4 5 CSE232  
+CSE351  Computer Networks  3 5 125 2 2 0 4  
+ Computer Engineering Level 3 Elective (1)  2 5 125 2 1 1 4  
+EPM119  Engineering Economy and Investments  2 4 100 2 1 0 3  
+ASU114  Selected Topics in Contemporary issues  2 2 50 2 0 0 2  
+ ASU Elective (2)  2 2 50 2 0 0 2  
+Total  16 28 700 13 6 7 26  
+Semester 8  
+CSE341  Internet Programming  3 5 125 2 1 2 5 CSE231  
+CSE354  Distributed Computing  3 4 100 2 2 1 5 CSE231 
+CSE351  
+CSE411  Real -Time and Embedded Systems Design  3 5 125 2 1 1 4 CSE211  
+CSE432  Automata and Computability  3 5 125 2 2 0 4 CSE332  
+ Computer Engineering Level 3 Elective (2)  2 5 125 2 1 1 4  
+ Computer Engineering Level 3 Elective (3)  2 5 125 2 1 1 4  
+ASU111  Human Rights  2 2 50 2 1 0 3  
+Total  18 31 775 14 9 6 29  
+Semester 9    Ain Shams University, Faculty of Engineering   
+Computer Engineering and Software Systems Program (CESS)  
+Bylaw -2018  
+ 
+CSE336  Software Design Patterns  2 5 125 2 1 1 4 CSE232  
+CSE431  Mobile Programming  3 5 125 2 1 2 5 CSE341  
+CSE441  Software Project Management  2 4 100 2 1 0 3 CSE334  
+ Computer Engineering Level 4 Elective (1)  3 5 125 3 1 1 5  
+ Computer Engineering Level 4 Elective (2)  3 5 125 3 1 1 5  
+CSE491  Computer and Systems Engineering 
+Graduation Project (1)  3 6 150 0 0 5 5  
+Total  16 30 750 12 5 10 27  
+Semester 10  
+CSE451  Computer and Networks Security  3 5 125 2 1 1 4 CSE351  
+CSE455  High -Performance Computing  2 5 125 2 2 0 4 CSE112  
+ Computer Engineering Level 4 Elective (3)  3 5 125 3 1 1 5  
+ Computer Engineering Level 4 Elective (4)  3 5 125 3 1 1 5  
+CSE492  Computer and Systems Engineering 
+Graduation Project (2)  3 6 150 0 0 5 5 CSE491  
+ASU113  Professional Ethics and Legislations  3 4 100 2 2 0 4  
+Total  17 30 750 12 6 9 27  
+ 
+7.5 Course Tree  
+ 
+ 
+ 
+ 
+  Ain Shams University, Faculty of Engineering   
+Computer Engineering and Software Systems Program (CESS)  
+Bylaw -2018  
+ 
+7.6 Program Study Duration  
+The minimum allowed study duration is nine main  semesters.  
+The maximum allowed study duration is twenty main semesters (ten years), which does not include frozen 
+semesters for reasons accepted by the Faculty of Engineering Council, after which the student is dismissed 
+from the  programs.  
+ 
+7.7 Degree Awarding Requirements  
+To obtain the Bachelor of Science Degree in Computer Engineering  and Software Systems , the student 
+must successfully complete the required Credit Hours in the program with a GPA at graduation of at least  
+2.0. 
+The student must pass all zero -credit courses in the Program.  
+A graduation  project  is an essential  part of the program  requirements  for graduation.  The graduation 
+project may be completed over two successive semesters, as per the program requirement,  and the student  
+will not graduate  unless  he fulfils  the project  pass requirements. The student must earn at least 130 Credit 
+Hours to register for the graduation project. If the project is divided along two semesters, the student must 
+register  them in their  order.  
+The student must perform Field Training for 12 weeks during his study  duration.  
+The student can study a number of courses in another University which has a cooperation agreement with 
+Ain Shams University regarding the transfer of Cred its. This requires prior approval from the Faculty of 
+Engineering, Ain Shams University. The Credit Hours of these courses are included in the student's 
+graduation requirements, provided that the total Credit Hours of these courses do not exceed 68 Credit  
+Hours.  
+ 
+7.8 Field Training  
+The student  must  perform  Field  Training  for 12 weeks  in an industrial  or service  facility  related to the 
+student's program and must be under the full supervision of the faculty. It is also possible to perform the 
+training inside the faculty in a similar  environment.  
+The training follow -up will be handled by the academic advisor assigned by the Program Steering  
+Committee.  
+The training  is divided  into periods  of 4 weeks  at the end of the first, second, and  third  levels. (Can be in 
+the fourth level as well open during the  semester)  
+ 
+7.9 Academic Advisor  
+Every student is assigned an Academic Advisor who follows -up the student academic progress and assists 
+him in selecting the courses each semester.  
+The Program Academi c Advisor is responsible for:  
+- Helping the student to choose his academic path and helps him to select courses each semester.  
+- Helping the student with the choice of the Field Training.  
+- Helping the student with the choice of concentration and graduation project.  
+8. Contacts  
+Website:  https://eng.asu.edu.eg/education/undergraduates/bylaws/ug2018/programs/UG18IDCESS  
+CESS.StudAffairs.ICHEP@eng.asu.edu.eg Mail:-E 
+Phone:  (+20 2) 26830947  
