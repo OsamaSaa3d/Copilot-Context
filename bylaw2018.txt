@@ -18,7 +18,7 @@ fields in engineering and is considered an important milestone in the ever -grow
 Therefore, the main objective of this progr am is to graduate highly qualified engineers in the field s of computer 
 engineering and software industry. This program focuses on modern methodologies in software industry that represents 
 an important sector of the national economy.  In this program , stude nts study  a variety of courses that complement each 
-other to produce a world -class qualified engineer . The program provides the students with the  engineering knowledge 
+other to produce a world class qualified engineer . The program provides the students with the  engineering knowledge 
 and principles that are applied in each phase of the software development life -cycle  including  requirements analysis, 
 design, validation, implementation, testing, documentation, and management. The program is therefore based on the 
 following intentions:  
