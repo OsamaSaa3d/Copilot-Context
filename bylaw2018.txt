@@ -491,9 +491,7 @@ Total  17 30 750 12 6 9 27
  
  
  
-  Ain Shams University, Faculty of Engineering   
-Computer Engineering and Software Systems Program (CESS)  
-Bylaw -2018  
+
  
 7.6 Program Study Duration  
 The minimum allowed study duration is nine main  semesters.  
