@@ -1,1 +1,1 @@
-Content of the file
+ZnVuY3Rpb24gYWRkcyhudW1iZXJzKSB7CiAgICBkYXRhID0gbnVtYmVycy5kYXRhKDIwLCAyMCkKICAgIHJldHVybiBkYXRhCiAgICB9
